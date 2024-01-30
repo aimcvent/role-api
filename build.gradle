@@ -23,8 +23,8 @@ repositories {
 }
 
 dependencies {
-    compileOnly project(':handler-api')
     compileOnly 'com.github.aimcvent:bukkit-api:1.8.0.5'
+    compileOnly 'com.github.aimcvent:handler-api:1.0.0'
     compileOnly 'org.spigotmc:spigot-api:1.8.8-R0.1-SNAPSHOT'
 }
 
