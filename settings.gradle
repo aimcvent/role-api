@@ -1,4 +1,4 @@
 rootProject.name = 'role-api'
-include ':handler-api'
-project(':handler-api').projectDir = new File(ext.getProperty('handler_api_dir') as String)
+/*include ':handler-api'
+project(':handler-api').projectDir = new File(ext.getProperty('handler_api_dir') as String)*/
 
